@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <circle cx="256" cy="256" r="246" fill="#14120F"/>
+  <circle cx="256" cy="256" r="224" fill="#FF4E24"/>
+  <circle cx="256" cy="256" r="198" fill="none" stroke="#14120F" stroke-width="8" stroke-dasharray="12 14"/>
+  <text x="256" y="290" text-anchor="middle" font-family="'Poppins', Arial, Helvetica, sans-serif" font-weight="700" font-size="190" fill="#14120F">TSP</text>
+</svg>
